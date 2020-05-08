@@ -131,7 +131,7 @@ caption {
   border-radius: 25px 25px 0 0;
 }
 th, td {
-  margin : 2px 2px 2px 2px;
+  margin : 2px;
   padding-bottom : 2px;
 }
 th {
@@ -142,7 +142,7 @@ td {
   height : 50px;
   vertical-align: top;
 }
-.prof-song, .prof-lee, .prof-cho, .prof-seo, {
+.prof-song, .prof-lee, .prof-cho, .prof-seo {
   margin : 0;
   padding : 0;
   color : #ffffff;
@@ -165,7 +165,6 @@ span {
   display: block;
   text-align: center;
   color: #800000;
-
   visibility: hidden;
 }
 
