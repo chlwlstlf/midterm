@@ -140,7 +140,7 @@ th {
 td {
   width : 100px;
   height : 50px;
-  vertical-align: top;
+  vertical-align: middle;
 }
 .prof-song, .prof-lee, .prof-cho, .prof-seo {
   margin : 0;
